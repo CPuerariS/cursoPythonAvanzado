@@ -1,4 +1,6 @@
 ### ACTIVIDADES
+## 1)
+*Crear un parser (json to csv ó csv to json)*
 ## 2)
 **A-** *Crear archivos test o de prueba con al menos 10 registros por archivo (con la información y campos correspondientes en cada uno)*
 

@@ -1,0 +1,11 @@
+nombre,edad,ciudad,correo,hobbies
+Juan,19,Salta,juan@gmail.com,"['jugar en la play', 'escuchar musica']"
+Juana,21,Tucuman,juana@gmail.com,"['leer', 'ir al gym']"
+Carlos,32,Buenos Aires,carlos@gmail.com,"['viajar', 'cocinar']"
+Laura,24,Rosario,laura@gmail.com,"['pintar', 'ver pel�\xadculas']"
+Pedro,30,Córdoba,pedro@gmail.com,"['nadar', 'viajar']"
+Isabel,28,Buenos Aires,isabel@gmail.com,"['bailar', 'leer']"
+Antonio,35,Mendoza,antonio@gmail.com,"['montañismo', 'cocinar']"
+Marcela,29,Tucumán,marcela@gmail.com,"['correr', 'leer']"
+Santiago,26,Salta,santiago@gmail.com,"['jugar al fútbol', 'pintar']"
+Valentina,31,San Juan,valentina@gmail.com,"['senderismo', 'ver pel�\xadculas']"
