@@ -1,0 +1,104 @@
+[  
+   {
+        "nombre": "Juan",
+        "edad": 19,
+        "ciudad": "Salta",
+        "correo": "juan@gmail.com",
+        "hobbies": [
+            "jugar en la play",
+            "escuchar musica"
+        ]
+    },
+
+    {
+        "nombre": "Juana",
+        "edad": 21,
+        "ciudad": "Tucuman",
+        "correo": "juana@gmail.com",
+        "hobbies": [
+            "leer",
+            "ir al gym"
+        ]
+    },
+
+    {
+        "nombre": "Carlos",
+        "edad": 32,
+        "ciudad": "Buenos Aires",
+        "correo": "carlos@gmail.com",
+        "hobbies": [
+            "viajar", 
+            "cocinar"]
+    },
+
+    {
+        "nombre": "Laura",
+        "edad": 24,
+        "ciudad": "Rosario",
+        "correo": "laura@gmail.com",
+        "hobbies": [
+        "pintar", 
+        "ver películas"]
+    },
+
+    {
+        "nombre": "Pedro",
+        "edad": 30,
+        "ciudad": "Córdoba",
+        "correo": "pedro@gmail.com",
+        "hobbies": [
+            "nadar", 
+            "viajar"]
+    },
+    
+    {
+        "nombre": "Isabel",
+        "edad": 28,
+        "ciudad": "Buenos Aires",
+        "correo": "isabel@gmail.com",
+        "hobbies": [
+        "bailar", 
+        "leer"]
+    },
+
+    {
+        "nombre": "Antonio",
+        "edad": 35,
+        "ciudad": "Mendoza",
+        "correo": "antonio@gmail.com",
+        "hobbies": [
+        "montañismo", 
+        "cocinar"]
+    },
+    
+    {
+        "nombre": "Marcela",
+        "edad": 29,
+        "ciudad": "Tucumán",
+        "correo": "marcela@gmail.com",
+        "hobbies": [
+        "correr", 
+        "leer"]
+    },
+
+    {
+        "nombre": "Santiago",
+        "edad": 26,
+        "ciudad": "Salta",
+        "correo": "santiago@gmail.com",
+        "hobbies": [
+        "jugar al fútbol",
+         "pintar"]
+    },
+    
+    {
+        "nombre": "Valentina",
+        "edad": 31,
+        "ciudad": "San Juan",
+        "correo": "valentina@gmail.com",
+        "hobbies": [
+        "senderismo", 
+        "ver películas"]
+    }
+    
+]
